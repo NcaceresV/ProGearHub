@@ -6,6 +6,11 @@
     --black: hsla(0, 0%, 0%, 1);
 }
 
+.title {
+    text-align: center;
+    color: orangered
+}
+
 body {
     background-color: var(--air-superiority-blue);
     margin: 0px;
@@ -17,14 +22,14 @@ body {
 }
 
 .main-header {
-    background-color: var(--black);
     display: flex;
     justify-content: space-between;
-    align-items: center;
+    align-items: end;
     padding-left: 30px;
     padding-right: 30px;
     flex-wrap: wrap;
     font-family: Silkscreen, sans-serif;
+    background-color: orange;
 }
 
 #search {
@@ -38,11 +43,14 @@ body {
     align-self: flex-end;
     margin-bottom: 10px;
 }
-
+h1 {
+    color: orangered;
+}
 #search input {
     flex: 1;
     padding: 5px;
 }
+
 
 #search button {
     padding: 5px;
@@ -54,7 +62,7 @@ body {
 .main-navigation {
     display: flex;
     flex-direction: row;
-    align-self: flex-end;
+    align-self: flex-start;
 }
 .main-navigation a {
     color: var(--isabelline);
