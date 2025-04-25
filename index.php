@@ -38,7 +38,7 @@ include "components/head.php";
     <h2>Featured Categories</h2>
     <div class="categories">
     <div class="card">
-        <img class="card-image" alt="Cricket Set" src="images/cricket2.png">
+        <img class="card-image" alt="Cricket Set" src="images/Cricket2.png">
         <div class="card-content">
             <h4>Cricket Set</h4>
             <p class="description">Cricket Full Set</p>

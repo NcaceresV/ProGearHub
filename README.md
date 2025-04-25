@@ -1,2 +1,2 @@
-# classWebsite2025
-A practice website for Diploma of IT 
+# ProGearHub Website2025
+website for Diploma of IT Nestor Caceres 

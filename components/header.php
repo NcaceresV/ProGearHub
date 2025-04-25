@@ -1,16 +1,16 @@
 <header class="main-header">
-    <a href="index.html">
+    <a href="index.php">
         <img class="logo" src="images/PGHlogo.png" alt="Logo">
     </a>
     <h1>Progear Hub</h1>
     <nav class="main-navigation">
-        <a href="index.html">
+        <a href="index.php">
             <!-- <i class="fa-solid fa-house"></i> -->
             Home
         </a>
-        <a href="products.html">Products</a>
-        <a href="about.html">About</a>
-        <a href="contact.html">Contact</a>
+        <a href="products.php">Products</a>
+        <a href="about.php">About</a>
+        <a href="contact.php">Contact</a>
     </nav>
     <!--<button type="button" class="menu-button">
     <i class="fa-solid fa-bars"></i>
